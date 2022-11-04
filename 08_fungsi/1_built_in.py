@@ -1,0 +1,5 @@
+# Fungsi Matematika
+
+
+# Fungsi Random
+
